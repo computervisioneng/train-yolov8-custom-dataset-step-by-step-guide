@@ -14,7 +14,7 @@ ret, frame = cap.read()
 H, W, _ = frame.shape
 out = cv2.VideoWriter(video_path_out, cv2.VideoWriter_fourcc(*'MP4V'), int(cap.get(cv2.CAP_PROP_FPS)), (W, H))
 
-model_path = os.path.join('.', 'models', 'alpaca_detector.pt')
+model_path = os.path.join('.', 'runs', 'detect', 'train', 'weights', 'last.pt')
 
 # Load a model
 model = YOLO(model_path)  # load a custom model
