@@ -1,8 +1,11 @@
 # train-yolov8-custom-dataset-step-by-step-guide
 
-In this video I show you a super comprehensive step by step tutorial on how to use yolov8 to train an object detector on your own custom dataset!
-
-[![Watch the video](https://img.youtube.com/vi/m9fH9OWn8YM/0.jpg)](https://www.youtube.com/watch?v=m9fH9OWn8YM)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=Z-m9fH9OWn8YM">
+    <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/yolov8_object_detection.jpg" alt="Watch the video">
+    </br>Watch on YouTube: Train Yolo V8 object detector on your custom data | Step by step guide !
+</a>
+</p>
 
 ## dataset
 
